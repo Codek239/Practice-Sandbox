@@ -25,3 +25,5 @@
 | Saloni    | [@gotchabuggs](https://github.com/gotchabuggs)         | Rotating                                     |                          Kare-Kare                           |
 | Wingerson | [@wingersonMJ](https://github.com/wingersonMJ)         | Colorado Concussion Research Lab             |                   Sesame chicken & Lo Mein                   |
 | Emily     | [@emilyekstrum](https://github.com/emilyekstrum)       | Rotating                                     |                           Baguette                           |
+| Kaylor    | [@Codek239](https://github.com/Codek239)               | Way Lab                                      |                           Sushi                              |
+
